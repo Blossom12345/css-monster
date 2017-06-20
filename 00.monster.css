@@ -1,0 +1,146 @@
+
+body{
+background-color: lightblue;
+}
+
+
+.head{
+	width: 100px;
+	height: 100px;
+	background: green;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	left: 600px;
+	
+}
+.circle1 {
+	width: 100px;
+	height: 100px;
+	background: green;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	left: 600px;
+}
+
+
+
+.circle2 {
+	width: 100px;
+	height: 100px;
+	background: green;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	left: 600px;
+
+}
+.square{
+	width: 100px;
+	height: 50px;
+	background: black;
+	position: relative;
+	left: 600px;
+	top: 50px;
+
+}
+.rectangle {
+	width: 100px;
+	height: 50px;
+	background: black;
+	position: relative;
+	left: 600px;
+	top: 50px;
+}
+.lefteye{
+	width:12px;
+	height:12px;
+	background-color:yellow;
+	position: relative;
+	top: 10px;
+	left: 25px;
+        
+}
+.righteye{
+	width:12px;
+	height:12px;
+	background-color:yellow;
+	position: relative;
+	top: -3px;
+	left: 60px;
+}
+
+.teeth1{
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 10px solid red;
+	position: relative;
+	top: 15px;
+	left: 50px;
+	z-index: 1;
+}
+.teeth2{
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 10px solid red;
+	position: relative;
+	top: 5px;
+	left: 35px;
+	z-index: 1;
+}
+.hair{
+	height: 30px;
+	width: 10px;
+	background-color: white;
+	position: relative;
+	top: -40px;
+	left: 45px;
+
+}
+.mouth{
+	height: 10px;
+	width: 30px;
+	background-color: black;
+	position: relative;
+	top: 18px;
+	left: 33px;
+}
+.arm{
+	width: 200px;
+	height: 10px;
+	background-color: black;
+	position: relative;
+	left: 600px;
+
+}
+.arm{
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 100px solid red;
+
+
+}
+					
+
+
+
+
+
+
+
+
+
+
+
+
+			
